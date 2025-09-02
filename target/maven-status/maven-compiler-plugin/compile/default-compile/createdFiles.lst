@@ -1,0 +1,3 @@
+com\shopease\model\Order.class
+com\shopease\model\Product.class
+com\shopease\service\ShopService.class
